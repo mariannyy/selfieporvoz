@@ -19,6 +19,7 @@ function start()
         if(Content =="tire minha selfie")
         {
             console.log("tirando selfie ---");
+            speak();
         }
 }
 
